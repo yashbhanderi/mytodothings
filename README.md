@@ -1,1 +1,1 @@
-# todoapp_with_react_django
+# Multiuser Todoapp with React and Django with PostgreSQL
