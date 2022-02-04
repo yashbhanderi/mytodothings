@@ -1,4 +1,4 @@
-# Multiuser Task Management app with React and Django with PostgreSQL
+# Multiuser Task Management app with React and Django, PostgreSQL
 
 - Full stack todo web application
 - Built with React hooks
