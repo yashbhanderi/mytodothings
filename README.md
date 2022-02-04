@@ -3,7 +3,7 @@
 - Full stack todo web application
 - Built with React hooks
 - Context API and useReducers for state management 
-- Priority based task setup ( Higher priority tasks shows up )
+- Priority based task setup ( Most important task shows at top of the list )
 - Pending and Complete status for task
 - Sorting of tasks based on Priority and Complete status
 - CRUD functionality
